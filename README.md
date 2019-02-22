@@ -15,5 +15,12 @@ make
 Then you can simply run it through the following command,
 
 ```
-./pfact
+pfact
 ```
+
+
+# Author
+
+___Hamin Lee___
+
+<https://github.com/HaminTheCoder>
