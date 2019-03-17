@@ -1,6 +1,6 @@
 # Process and Pipes
 
-This is a simple assignment created with C programming. We take user input which is an integer and figure out if the input is a factor of two prime. Program can be simply compiled using the "make" command.
+This is an assignment created with C programming involving processes and pipes. We take user input which is an integer and figure out if the input is a factor of two prime. Program can be simply compiled using the "make" command.
 
 # How to run
 
